@@ -1,7 +1,8 @@
 #!/bin/bash
 
-killall hexo
+git pull
 
+killall hexo
 
 hexo g
 hexo d

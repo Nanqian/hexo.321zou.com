@@ -2,4 +2,6 @@
 
 killall hexo
 
-hexo s
+hexo g
+hexo d
+hexo s &

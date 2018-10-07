@@ -4,7 +4,7 @@ git pull
 
 killall hexo
 
-npm install
+npm install --save
 
 hexo g
 hexo d
